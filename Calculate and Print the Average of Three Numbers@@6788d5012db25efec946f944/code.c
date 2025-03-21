@@ -5,7 +5,7 @@ int main() {
     int av;
     av = a + b + c;
     float ave;
-    ave = av/3;
+    ave = av/3.0;
     printf("Average: %f", ave);
     return 0;
 }
