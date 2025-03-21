@@ -3,8 +3,6 @@
 int main() {
     char word[100]; // Array to store the input string
 
-    // Prompt user for input
-    printf("Enter a word: ");
     
     // Taking a single word input
     scanf("%s", word);
